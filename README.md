@@ -1,6 +1,8 @@
 ### Hi there 👋 Me name alb!
 
 I'm a CS student as Northeastern University, but I also do engineering projects on the side!
+
+Hardware Projects: https://github.com/aRandomHumanoid/CAD/tree/main/Projects
 <!--
 **aRandomHumanoid/aRandomHumanoid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
